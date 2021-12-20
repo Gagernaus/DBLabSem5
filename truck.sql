@@ -1,0 +1,10 @@
+INSERT INTO truck (truckid, maxvolume, maxmass, platenumber) VALUES (1,6,1000,'ABC123177');
+INSERT INTO truck (truckid, maxvolume, maxmass, platenumber) VALUES (2,9,1500,'CBA321177');
+INSERT INTO truck (truckid, maxvolume, maxmass, platenumber) VALUES (3,12,2000,'KEK818177');
+INSERT INTO truck (truckid, maxvolume, maxmass, platenumber) VALUES (4,6,1000,'VAD666177');
+INSERT INTO truck (truckid, maxvolume, maxmass, platenumber) VALUES (5,8,1350,'NBT029177');
+INSERT INTO truck (truckid, maxvolume, maxmass, platenumber) VALUES (6,9,1500,'OOP732177');
+INSERT INTO truck (truckid, maxvolume, maxmass, platenumber) VALUES (7,12,2000,'JMS007177');
+INSERT INTO truck (truckid, maxvolume, maxmass, platenumber) VALUES (8,6,1000,'ASW356177');
+INSERT INTO truck (truckid, maxvolume, maxmass, platenumber) VALUES (9,9,1500,'VND231177');
+INSERT INTO truck (truckid, maxvolume, maxmass, platenumber) VALUES (10,12,2000,'NVH324177');

@@ -1,0 +1,10 @@
+insert into warehouse (warehouseid, address, numberofrows, rowsize, shelfsize) values (1, '23891 Chive Avenue', 17, 9, 6);
+insert into warehouse (warehouseid, address, numberofrows, rowsize, shelfsize) values (2, '18067 Sullivan Avenue', 11, 5, 10);
+insert into warehouse (warehouseid, address, numberofrows, rowsize, shelfsize) values (3, '9 Prairie Rose Circle', 10, 6, 10);
+insert into warehouse (warehouseid, address, numberofrows, rowsize, shelfsize) values (4, '03091 Victoria Road', 16, 6, 10);
+insert into warehouse (warehouseid, address, numberofrows, rowsize, shelfsize) values (5, '68400 Atwood Road', 11, 7, 8);
+insert into warehouse (warehouseid, address, numberofrows, rowsize, shelfsize) values (6, '73139 South Lane', 16, 5, 6);
+insert into warehouse (warehouseid, address, numberofrows, rowsize, shelfsize) values (7, '8720 Mosinee Lane', 18, 9, 10);
+insert into warehouse (warehouseid, address, numberofrows, rowsize, shelfsize) values (8, '1 Holy Cross Pass', 15, 7, 9);
+insert into warehouse (warehouseid, address, numberofrows, rowsize, shelfsize) values (9, '72 Michigan Avenue', 18, 5, 9);
+insert into warehouse (warehouseid, address, numberofrows, rowsize, shelfsize) values (10, '6 Village Green Pass', 15, 7, 9);

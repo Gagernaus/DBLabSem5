@@ -1,0 +1,10 @@
+INSERT INTO tariffs (tariffid, itemtype, price) VALUES (1,'Bicycle',100);
+INSERT INTO tariffs (tariffid, itemtype, price) VALUES (2,'Small bike',300);
+INSERT INTO tariffs (tariffid, itemtype, price) VALUES (3,'Bike',600);
+INSERT INTO tariffs (tariffid, itemtype, price) VALUES (4,'Large bike',900);
+INSERT INTO tariffs (tariffid, itemtype, price) VALUES (5,'Nightstand',200);
+INSERT INTO tariffs (tariffid, itemtype, price) VALUES (6,'Wardrobe',400);
+INSERT INTO tariffs (tariffid, itemtype, price) VALUES (7,'Safe',600);
+INSERT INTO tariffs (tariffid, itemtype, price) VALUES (8,'Car wheel',150);
+INSERT INTO tariffs (tariffid, itemtype, price) VALUES (9,'Armchair',300);
+INSERT INTO tariffs (tariffid, itemtype, price) VALUES (10,'Table',500);
